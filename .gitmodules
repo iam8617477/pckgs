@@ -1,0 +1,6 @@
+[submodule "crpt"]
+	path = crpt
+	url = git@github.com:iam8617477/crpt.git
+[submodule "bos"]
+	path = bos
+	url = git@github.com:iam8617477/bos.git
