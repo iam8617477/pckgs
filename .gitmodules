@@ -4,3 +4,9 @@
 [submodule "bos"]
 	path = bos
 	url = git@github.com:iam8617477/bos.git
+[submodule "fcrptr"]
+	path = fcrptr
+	url = git@github.com:iam8617477/fcrptr.git
+[submodule "libs"]
+	path = libs
+	url = git@github.com:iam8617477/libs.git
